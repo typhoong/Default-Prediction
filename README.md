@@ -2,7 +2,7 @@
 Code, report, and data of the 'Project to predict car insurance contract success for existing customer outbound calls' conducted at the '4th Seoul National University Big Data Fintech Expert Training Course'.
 
 
-### Task Overview
+## Task Overview
 ![Image_LendingClub_1](https://user-images.githubusercontent.com/89120612/215262320-e768f840-1e45-4471-87d8-3d3066065bc2.png)
 ![Image_LendingClub_2](https://user-images.githubusercontent.com/89120612/215262321-e7891b3a-6e34-4281-8433-6492fcf1433a.png)
 ![Image_LendingClub_3](https://user-images.githubusercontent.com/89120612/215262323-431dd969-d681-4c3a-b4aa-9139538e214e.png)
